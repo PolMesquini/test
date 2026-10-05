@@ -14,11 +14,23 @@ Lista ordenada:
 
 Comando entre linea `apt update``
 
-Ahora mucho codigo:
+
 
 `bash apt upgradre`
 
 `sudo apt update -y`
+
+
+Ahora mucho codigo:
+
+```bash
+cd ..
+cp /etc/passwd /var/config
+mkdir hola
+```
+
+
+
 
 ahora ponemos un enlace a gitub:
 [Enlace a amazon](https://www.amazon.es/)
